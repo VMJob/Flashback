@@ -2,6 +2,6 @@ This a cool Flasback app built to educate users on the origin of REACT. The ques
 
 Languages used includes: CSS, HTML, JavaScripts, and PHP.
 
-![](./app/assets/images/screenshot.png)
+![](./Flashback/images/screenshot.png)
 
 https://flashback-vincent-job.herokuapp.com/index.html
